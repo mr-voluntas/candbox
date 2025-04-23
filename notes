@@ -1,0 +1,57 @@
+
+steps to write a program:
+
+- define the objects
+    - what are you trying to accomplish?
+    - scope
+
+- design
+    - decide how to fulfil the requirements
+    - how to organise the code
+
+- write code
+    - translate the sudo code
+
+- test
+    - test is works as intended
+    - check for defects
+
+- maintain
+    - new features
+    - continue to fix defects
+
+
+NOTES:
+- ignoring steps 1 & 2 is okay for small programs, but can be a big mistake for bigger programs
+- the larger and more complex a prgram, the more planning it requires
+- should develop the habit of doing steps 1 & 2 before writing code
+
+IMPORTANT:
+- when coding, work in small steps and test constantly
+
+
+Uses:
+- general purpose (OS applications, general programs etc)
+- imperative programming style (statements that changes state and focus)
+- organised around the use of functions
+- reliable and readable
+- strong role in the development of linux
+- C is function based & C++ is OOP based, all C code is valid in C++
+- provides low-level access to memory
+- hardware independent
+- differnt version/standards of C (C89, C90, C99, C11)
+- can be used for just about anything
+- manage your own memory
+- gives access to hardware
+
+Notes: because its more flexible, its gives you more responsibility
+
+
+
+
+
+
+
+
+
+
